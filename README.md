@@ -21,7 +21,7 @@ Add the coding and end the program.
 ```
 #Program to find the inverse of a matrix.
 #Developed by:Pravin raj.A
-#RegisterNumber:22007200
+#RegisterNumber:212222240079
 import numpy as np
 a=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 res=np.linalg.inv(a)
