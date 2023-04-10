@@ -23,9 +23,9 @@ Add the coding and end the program.
 #Developed by:Pravin raj.A
 #RegisterNumber:212222240079
 import numpy as np
-a=np.array([[2,1,1],[1,1,1],[1,-1,2]])
-res=np.linalg.inv(a)
-print(res)
+A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
+inverse=np.linalg.inv(A)
+print(inverse)
 ```
 ## Output:
 ![Screenshot_20230405_111233](https://user-images.githubusercontent.com/118707879/229991790-2caa1108-69f1-4dcf-9220-61bed288bc87.png)
